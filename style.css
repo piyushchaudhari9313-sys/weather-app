@@ -82,6 +82,12 @@ img:hover{
      }
      button{
         display: inline;
-        padding: 9px;
+        padding: 8px;
      }
-    }
+     #temp{
+        font-size: 2rem;
+     }
+     #type{
+        font-size: 1.7rem;
+     }
+}
